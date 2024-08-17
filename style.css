@@ -1,0 +1,43 @@
+body {
+    background-color: #f0f8ff;
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    text-align: center;
+    max-width: 400px;
+}
+
+h1 {
+ font-size: 35px;
+    font-family: Arial,Helvetica, sans-serif;
+    background: linear-gradient(to right, #3A0145, #940579,#FF058D, #46024A);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.photo {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.video {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.message {
+    color: #333;
+    font-size: 18px;
+}
